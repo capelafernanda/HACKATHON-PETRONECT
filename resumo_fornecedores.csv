@@ -1,0 +1,51 @@
+﻿id_fornecedor,nome,segmento,estado,interesse_declarado,frequencia,ultimo_acesso,propostas_iniciadas,propostas_abandonadas,propostas_enviadas,dias_sem_acesso,score,status,interesse_real,comportamento,acao_recomendada
+FORN001,Empresa Beta,Logística,BA,Leilões,7,2026-09-15,3,1,2,0,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN002,Empresa Omega,Tecnologia,MG,Oportunidades,6,2026-09-15,4,0,2,0,75,Engajado,Nenhum,Sem interação,Acompanhar comportamento
+FORN003,Empresa Omega,Construção,MG,Leilões,6,2026-09-15,3,2,1,0,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN004,Empresa Alpha,Tecnologia,MG,Oportunidades,4,2026-09-15,2,1,0,0,40,Em risco,Oportunidades,Alinhado,Incentivar retomada da proposta
+FORN005,Empresa Delta,Serviços,RS,Leilões,5,2026-09-15,1,1,0,0,40,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN006,Empresa Gamma,Engenharia,SP,Treinamentos,4,2026-09-13,3,2,1,2,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN007,Empresa Gamma,Construção,MG,Treinamentos,8,2026-09-15,4,1,2,0,70,Engajado,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN008,Empresa Omega,Engenharia,BA,Oportunidades,5,2026-09-14,2,0,2,1,75,Engajado,Oportunidades,Alinhado,Acompanhar comportamento
+FORN009,Empresa Alpha,Tecnologia,MG,Oportunidades,4,2026-09-10,2,0,0,5,45,Em risco,Oportunidades,Alinhado,Acompanhar comportamento
+FORN010,Empresa Gamma,Engenharia,SP,Treinamentos,8,2026-09-14,4,0,3,1,85,Engajado,Oportunidades,Divergente,Atualizar recomendações
+FORN011,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,3,2026-09-11,2,0,0,4,30,Inativo,Oportunidades,Divergente,Atualizar recomendações
+FORN012,Empresa Omega,Logística,BA,Leilões,10,2026-09-14,9,3,3,1,70,Engajado,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,12,2026-09-14,6,1,4,1,70,Engajado,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN014,Empresa Beta,Construção,RS,Cadastro Petrobras,8,2026-09-14,3,1,1,1,70,Engajado,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN015,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,5,2026-09-09,2,0,2,6,65,Em risco,Nenhum,Sem interação,Acompanhar comportamento
+FORN016,Empresa Delta,Construção,SP,Oportunidades,4,2026-09-14,2,0,0,1,55,Em risco,Oportunidades,Alinhado,Acompanhar comportamento
+FORN017,Empresa Alpha,Logística,RS,Leilões,5,2026-09-15,3,2,0,0,40,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN018,Empresa Delta,Tecnologia,RJ,Licitações,2,2026-08-27,0,0,0,19,0,Inativo,Oportunidades,Divergente,Enviar comunicação de retorno
+FORN019,Empresa Omega,Tecnologia,MG,Oportunidades,2,2026-09-01,1,0,1,14,35,Inativo,Oportunidades,Alinhado,Acompanhar comportamento
+FORN020,Empresa Beta,Construção,BA,Treinamentos,6,2026-09-15,5,3,2,0,60,Em risco,Nenhum,Sem interação,Incentivar retomada da proposta
+FORN021,Empresa Gamma,Logística,BA,Oportunidades,7,2026-09-15,2,1,1,0,60,Em risco,Oportunidades,Alinhado,Incentivar retomada da proposta
+FORN022,Empresa Delta,Construção,SP,Leilões,7,2026-09-13,3,1,2,2,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN023,Empresa Gamma,Construção,MG,Oportunidades,4,2026-09-15,1,1,0,0,40,Em risco,Oportunidades,Alinhado,Incentivar retomada da proposta
+FORN024,Empresa Beta,Construção,RS,Treinamentos,7,2026-09-14,3,1,2,1,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN025,Empresa Delta,Logística,SP,Licitações,1,2026-08-29,0,0,0,17,0,Inativo,Oportunidades,Divergente,Enviar comunicação de retorno
+FORN026,Empresa Delta,Tecnologia,RJ,Treinamentos,7,2026-09-15,4,2,1,0,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN027,Empresa Omega,Serviços,RJ,Treinamentos,7,2026-09-15,5,3,1,0,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN028,Empresa Gamma,Logística,BA,Treinamentos,4,2026-09-15,3,1,1,0,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN029,Empresa Delta,Serviços,MG,Licitações,8,2026-09-15,5,1,3,0,70,Engajado,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN030,Empresa Gamma,Construção,BA,Licitações,5,2026-09-15,2,1,0,0,40,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN031,Empresa Beta,Logística,RS,Oportunidades,8,2026-09-14,3,1,0,1,50,Em risco,Oportunidades,Alinhado,Incentivar retomada da proposta
+FORN032,Empresa Alpha,Logística,RS,Oportunidades,6,2026-09-15,4,0,2,0,75,Engajado,Oportunidades,Alinhado,Acompanhar comportamento
+FORN033,Empresa Beta,Tecnologia,BA,Leilões,8,2026-09-15,2,1,0,0,50,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN034,Empresa Delta,Engenharia,BA,Licitações,1,2026-08-25,1,1,0,21,0,Inativo,Oportunidades,Divergente,Enviar comunicação de retorno
+FORN035,Empresa Beta,Serviços,BA,Leilões,5,2026-09-14,3,1,1,1,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN036,Empresa Gamma,Engenharia,MG,Licitações,6,2026-09-15,2,0,2,0,75,Engajado,Oportunidades,Divergente,Atualizar recomendações
+FORN037,Empresa Beta,Construção,RJ,Leilões,3,2026-09-12,1,0,0,3,40,Em risco,Oportunidades,Divergente,Atualizar recomendações
+FORN038,Empresa Alpha,Tecnologia,RS,Licitações,6,2026-09-15,4,3,1,0,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN039,Empresa Omega,Construção,SP,Leilões,9,2026-09-14,6,2,2,1,70,Engajado,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN040,Empresa Omega,Logística,BA,Cadastro Petrobras,7,2026-09-15,4,1,3,0,60,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN041,Empresa Delta,Serviços,MG,Oportunidades,8,2026-09-15,7,1,3,0,70,Engajado,Oportunidades,Alinhado,Incentivar retomada da proposta
+FORN042,Empresa Delta,Logística,MG,Licitações,9,2026-09-15,2,0,1,0,85,Engajado,Oportunidades,Divergente,Atualizar recomendações
+FORN043,Empresa Gamma,Serviços,BA,Cadastro Petrobras,4,2026-09-15,3,1,0,0,40,Em risco,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN044,Empresa Alpha,Logística,MG,Oportunidades,5,2026-09-15,2,2,0,0,40,Em risco,Oportunidades,Alinhado,Incentivar retomada da proposta
+FORN045,Empresa Omega,Logística,BA,Leilões,7,2026-09-15,2,0,0,0,55,Em risco,Oportunidades,Divergente,Atualizar recomendações
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,12,2026-09-15,7,4,2,0,70,Engajado,Oportunidades,Divergente,Incentivar retomada da proposta
+FORN047,Empresa Omega,Engenharia,RJ,Licitações,1,2026-08-28,0,0,0,18,0,Inativo,Nenhum,Sem interação,Enviar comunicação de retorno
+FORN048,Empresa Beta,Logística,RS,Cadastro Petrobras,5,2026-09-14,2,0,1,1,75,Engajado,Oportunidades,Divergente,Atualizar recomendações
+FORN049,Empresa Delta,Engenharia,MG,Leilões,1,2026-09-09,0,0,0,6,15,Inativo,Oportunidades,Divergente,Atualizar recomendações
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,9,2026-09-15,3,0,2,0,85,Engajado,Oportunidades,Alinhado,Enviar novas oportunidades

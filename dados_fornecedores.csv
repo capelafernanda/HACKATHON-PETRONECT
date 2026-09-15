@@ -1,0 +1,292 @@
+﻿id_fornecedor,nome,segmento,estado,interesse_declarado,data_acesso,hora,tela_acessada,tempo_segundos,buscou,clicou_oportunidade,iniciou_proposta,abandonou_proposta,enviou_proposta,engajamento,interesse_real
+FORN001,Empresa Beta,Logística,BA,Leilões,2026-09-13,17:09,Treinamentos,368,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN001,Empresa Beta,Logística,BA,Leilões,2026-09-12,09:19,Minha Área de Interesse,403,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN001,Empresa Beta,Logística,BA,Leilões,2026-09-15,18:15,Home,273,Manutenção,Não,Não,Não,Não,Inativo,Oportunidades
+FORN001,Empresa Beta,Logística,BA,Leilões,2026-09-13,08:44,Minha Área de Interesse,188,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN001,Empresa Beta,Logística,BA,Leilões,2026-09-14,10:10,Oportunidades,76,Engenharia,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN001,Empresa Beta,Logística,BA,Leilões,2026-09-12,09:09,Propostas,97,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN001,Empresa Beta,Logística,BA,Leilões,2026-09-15,18:55,Treinamentos,453,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN002,Empresa Omega,Tecnologia,MG,Oportunidades,2026-09-08,16:15,Propostas,282,Nenhuma,Sim,Sim,Não,Não,Inativo,Nenhum
+FORN002,Empresa Omega,Tecnologia,MG,Oportunidades,2026-09-15,17:57,Minha Área de Interesse,126,FPSO,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN002,Empresa Omega,Tecnologia,MG,Oportunidades,2026-09-05,13:46,Home,115,Nenhuma,Sim,Sim,Não,Não,Inativo,Nenhum
+FORN002,Empresa Omega,Tecnologia,MG,Oportunidades,2026-09-12,13:43,Oportunidades,363,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN002,Empresa Omega,Tecnologia,MG,Oportunidades,2026-09-10,17:27,Minha Área de Interesse,26,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN002,Empresa Omega,Tecnologia,MG,Oportunidades,2026-09-15,17:02,Treinamentos,274,Nenhuma,Sim,Sim,Não,Sim,Engajado,Nenhum
+FORN003,Empresa Omega,Construção,MG,Leilões,2026-09-15,16:58,Oportunidades,167,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN003,Empresa Omega,Construção,MG,Leilões,2026-09-14,13:43,Oportunidades,317,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN003,Empresa Omega,Construção,MG,Leilões,2026-09-15,16:31,Propostas,320,Equipamentos,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN003,Empresa Omega,Construção,MG,Leilões,2026-09-15,10:14,Treinamentos,226,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN003,Empresa Omega,Construção,MG,Leilões,2026-09-14,14:29,Minha Área de Interesse,400,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN003,Empresa Omega,Construção,MG,Leilões,2026-09-15,14:35,Propostas,258,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN004,Empresa Alpha,Tecnologia,MG,Oportunidades,2026-09-15,08:16,Home,594,Manutenção,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN004,Empresa Alpha,Tecnologia,MG,Oportunidades,2026-09-14,10:19,Propostas,428,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN004,Empresa Alpha,Tecnologia,MG,Oportunidades,2026-09-14,18:23,Propostas,395,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN004,Empresa Alpha,Tecnologia,MG,Oportunidades,2026-09-12,11:55,Home,114,FPSO,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN005,Empresa Delta,Serviços,RS,Leilões,2026-09-15,11:20,Propostas,525,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN005,Empresa Delta,Serviços,RS,Leilões,2026-09-13,12:08,Oportunidades,176,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN005,Empresa Delta,Serviços,RS,Leilões,2026-09-05,12:50,Oportunidades,95,Nenhuma,Não,Sim,Sim,Não,Em risco,Nenhum
+FORN005,Empresa Delta,Serviços,RS,Leilões,2026-09-07,11:26,Propostas,515,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN005,Empresa Delta,Serviços,RS,Leilões,2026-09-10,17:18,Oportunidades,27,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN006,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-08,18:11,Home,237,Engenharia,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN006,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-07,14:57,Minha Área de Interesse,290,Equipamentos,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN006,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-09,13:53,Home,274,Engenharia,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN006,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-13,18:12,Propostas,456,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN007,Empresa Gamma,Construção,MG,Treinamentos,2026-09-11,11:28,Minha Área de Interesse,482,Manutenção,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN007,Empresa Gamma,Construção,MG,Treinamentos,2026-09-14,15:03,Oportunidades,237,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN007,Empresa Gamma,Construção,MG,Treinamentos,2026-09-10,18:32,Propostas,262,FPSO,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN007,Empresa Gamma,Construção,MG,Treinamentos,2026-09-12,18:54,Oportunidades,98,Nenhuma,Sim,Sim,Não,Sim,Engajado,Nenhum
+FORN007,Empresa Gamma,Construção,MG,Treinamentos,2026-09-15,08:16,Home,316,FPSO,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN007,Empresa Gamma,Construção,MG,Treinamentos,2026-09-12,14:35,Propostas,246,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN007,Empresa Gamma,Construção,MG,Treinamentos,2026-09-12,13:34,Home,187,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN007,Empresa Gamma,Construção,MG,Treinamentos,2026-09-08,09:06,Treinamentos,331,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN008,Empresa Omega,Engenharia,BA,Oportunidades,2026-09-13,15:34,Treinamentos,504,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN008,Empresa Omega,Engenharia,BA,Oportunidades,2026-09-14,16:55,Treinamentos,131,Manutenção,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN008,Empresa Omega,Engenharia,BA,Oportunidades,2026-09-14,12:32,Propostas,479,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN008,Empresa Omega,Engenharia,BA,Oportunidades,2026-09-12,14:51,Treinamentos,46,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN008,Empresa Omega,Engenharia,BA,Oportunidades,2026-09-13,17:48,Propostas,249,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN009,Empresa Alpha,Tecnologia,MG,Oportunidades,2026-09-05,09:30,Treinamentos,129,Engenharia,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN009,Empresa Alpha,Tecnologia,MG,Oportunidades,2026-09-10,16:32,Minha Área de Interesse,112,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN009,Empresa Alpha,Tecnologia,MG,Oportunidades,2026-09-05,15:54,Minha Área de Interesse,58,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN009,Empresa Alpha,Tecnologia,MG,Oportunidades,2026-09-10,11:14,Propostas,64,Equipamentos,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN010,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-12,13:52,Oportunidades,349,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN010,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-11,16:45,Home,170,Manutenção,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN010,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-08,14:25,Oportunidades,117,Engenharia,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN010,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-11,12:39,Minha Área de Interesse,88,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN010,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-08,15:27,Oportunidades,358,Nenhuma,Sim,Sim,Não,Não,Inativo,Nenhum
+FORN010,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-09,14:05,Oportunidades,319,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN010,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-14,13:47,Home,102,Equipamentos,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN010,Empresa Gamma,Engenharia,SP,Treinamentos,2026-09-10,16:01,Oportunidades,346,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN011,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,2026-08-24,12:16,Treinamentos,213,Manutenção,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN011,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,2026-09-02,11:07,Oportunidades,108,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN011,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,2026-09-11,12:46,Oportunidades,543,Manutenção,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-14,08:20,Oportunidades,342,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-08,18:01,Home,451,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-13,08:52,Treinamentos,561,Engenharia,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-08,13:46,Oportunidades,570,Equipamentos,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-11,14:04,Oportunidades,81,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-08,10:44,Home,417,Nenhuma,Sim,Sim,Não,Sim,Engajado,Nenhum
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-10,13:43,Propostas,467,Engenharia,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-12,14:09,Oportunidades,596,FPSO,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-08,11:34,Propostas,469,Equipamentos,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN012,Empresa Omega,Logística,BA,Leilões,2026-09-13,15:58,Treinamentos,38,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-11,16:36,Propostas,272,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-08,15:41,Propostas,176,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-14,13:35,Treinamentos,478,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-14,10:31,Minha Área de Interesse,182,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-09,14:41,Oportunidades,581,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-12,16:14,Oportunidades,527,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-10,10:42,Home,496,FPSO,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-10,16:43,Minha Área de Interesse,532,Manutenção,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-11,18:16,Treinamentos,547,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-14,12:08,Treinamentos,536,Manutenção,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-09,14:50,Oportunidades,544,Equipamentos,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN013,Empresa Gamma,Construção,MG,Cadastro Petrobras,2026-09-11,11:31,Minha Área de Interesse,212,Equipamentos,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN014,Empresa Beta,Construção,RS,Cadastro Petrobras,2026-09-10,15:38,Home,54,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN014,Empresa Beta,Construção,RS,Cadastro Petrobras,2026-09-14,17:25,Propostas,41,Engenharia,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN014,Empresa Beta,Construção,RS,Cadastro Petrobras,2026-09-11,11:42,Minha Área de Interesse,518,Engenharia,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN014,Empresa Beta,Construção,RS,Cadastro Petrobras,2026-09-08,14:33,Oportunidades,194,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN014,Empresa Beta,Construção,RS,Cadastro Petrobras,2026-09-13,13:17,Oportunidades,497,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN014,Empresa Beta,Construção,RS,Cadastro Petrobras,2026-09-11,18:06,Oportunidades,297,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN014,Empresa Beta,Construção,RS,Cadastro Petrobras,2026-09-12,15:29,Treinamentos,553,Manutenção,Não,Não,Não,Não,Inativo,Oportunidades
+FORN014,Empresa Beta,Construção,RS,Cadastro Petrobras,2026-09-12,18:13,Home,139,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN015,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,2026-09-07,17:29,Propostas,482,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN015,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,2026-09-08,13:17,Treinamentos,397,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN015,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,2026-09-09,11:44,Minha Área de Interesse,345,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN015,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,2026-09-08,18:39,Minha Área de Interesse,277,Equipamentos,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN015,Empresa Alpha,Engenharia,BA,Cadastro Petrobras,2026-09-05,09:52,Oportunidades,198,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN016,Empresa Delta,Construção,SP,Oportunidades,2026-09-09,16:22,Minha Área de Interesse,311,Engenharia,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN016,Empresa Delta,Construção,SP,Oportunidades,2026-09-14,15:57,Oportunidades,580,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN016,Empresa Delta,Construção,SP,Oportunidades,2026-09-06,18:22,Propostas,85,Equipamentos,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN016,Empresa Delta,Construção,SP,Oportunidades,2026-09-09,16:13,Minha Área de Interesse,137,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN017,Empresa Alpha,Logística,RS,Leilões,2026-09-15,10:08,Propostas,47,FPSO,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN017,Empresa Alpha,Logística,RS,Leilões,2026-09-14,15:44,Propostas,401,Equipamentos,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN017,Empresa Alpha,Logística,RS,Leilões,2026-09-15,18:40,Oportunidades,86,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN017,Empresa Alpha,Logística,RS,Leilões,2026-09-15,08:45,Treinamentos,29,Engenharia,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN017,Empresa Alpha,Logística,RS,Leilões,2026-09-14,08:45,Treinamentos,556,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN018,Empresa Delta,Tecnologia,RJ,Licitações,2026-08-25,12:21,Treinamentos,589,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN018,Empresa Delta,Tecnologia,RJ,Licitações,2026-08-27,17:31,Minha Área de Interesse,346,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN019,Empresa Omega,Tecnologia,MG,Oportunidades,2026-09-01,11:22,Minha Área de Interesse,378,Manutenção,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN019,Empresa Omega,Tecnologia,MG,Oportunidades,2026-08-23,11:05,Treinamentos,212,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN020,Empresa Beta,Construção,BA,Treinamentos,2026-09-13,16:38,Oportunidades,239,Nenhuma,Sim,Sim,Não,Sim,Engajado,Nenhum
+FORN020,Empresa Beta,Construção,BA,Treinamentos,2026-09-13,17:21,Oportunidades,118,Engenharia,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN020,Empresa Beta,Construção,BA,Treinamentos,2026-09-15,18:21,Home,341,Nenhuma,Não,Sim,Sim,Não,Em risco,Nenhum
+FORN020,Empresa Beta,Construção,BA,Treinamentos,2026-09-07,18:10,Home,506,Nenhuma,Não,Sim,Sim,Não,Em risco,Nenhum
+FORN020,Empresa Beta,Construção,BA,Treinamentos,2026-09-13,13:07,Oportunidades,230,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN020,Empresa Beta,Construção,BA,Treinamentos,2026-09-11,10:48,Treinamentos,70,FPSO,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN021,Empresa Gamma,Logística,BA,Oportunidades,2026-09-14,15:39,Propostas,390,Engenharia,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN021,Empresa Gamma,Logística,BA,Oportunidades,2026-09-13,11:03,Home,415,Manutenção,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN021,Empresa Gamma,Logística,BA,Oportunidades,2026-09-13,14:46,Treinamentos,553,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN021,Empresa Gamma,Logística,BA,Oportunidades,2026-09-15,16:12,Treinamentos,539,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN021,Empresa Gamma,Logística,BA,Oportunidades,2026-09-15,14:56,Oportunidades,131,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN021,Empresa Gamma,Logística,BA,Oportunidades,2026-09-14,13:53,Minha Área de Interesse,270,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN021,Empresa Gamma,Logística,BA,Oportunidades,2026-09-12,08:46,Minha Área de Interesse,585,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN022,Empresa Delta,Construção,SP,Leilões,2026-09-05,12:30,Minha Área de Interesse,70,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN022,Empresa Delta,Construção,SP,Leilões,2026-09-10,14:39,Home,328,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN022,Empresa Delta,Construção,SP,Leilões,2026-09-11,18:17,Minha Área de Interesse,145,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN022,Empresa Delta,Construção,SP,Leilões,2026-09-09,14:31,Minha Área de Interesse,407,FPSO,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN022,Empresa Delta,Construção,SP,Leilões,2026-09-11,18:29,Minha Área de Interesse,112,Manutenção,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN022,Empresa Delta,Construção,SP,Leilões,2026-09-07,15:13,Home,425,FPSO,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN022,Empresa Delta,Construção,SP,Leilões,2026-09-13,08:32,Oportunidades,169,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN023,Empresa Gamma,Construção,MG,Oportunidades,2026-09-09,15:55,Oportunidades,571,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN023,Empresa Gamma,Construção,MG,Oportunidades,2026-09-15,16:50,Treinamentos,205,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN023,Empresa Gamma,Construção,MG,Oportunidades,2026-09-06,18:44,Minha Área de Interesse,354,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN023,Empresa Gamma,Construção,MG,Oportunidades,2026-09-12,16:42,Home,575,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN024,Empresa Beta,Construção,RS,Treinamentos,2026-09-14,11:11,Minha Área de Interesse,167,Nenhuma,Sim,Sim,Não,Sim,Engajado,Nenhum
+FORN024,Empresa Beta,Construção,RS,Treinamentos,2026-09-11,09:08,Home,441,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN024,Empresa Beta,Construção,RS,Treinamentos,2026-09-07,10:15,Treinamentos,73,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN024,Empresa Beta,Construção,RS,Treinamentos,2026-09-10,17:43,Propostas,88,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN024,Empresa Beta,Construção,RS,Treinamentos,2026-09-12,15:49,Minha Área de Interesse,273,Equipamentos,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN024,Empresa Beta,Construção,RS,Treinamentos,2026-09-07,11:10,Oportunidades,128,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN024,Empresa Beta,Construção,RS,Treinamentos,2026-09-08,14:29,Oportunidades,263,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN025,Empresa Delta,Logística,SP,Licitações,2026-08-29,10:20,Minha Área de Interesse,107,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN026,Empresa Delta,Tecnologia,RJ,Treinamentos,2026-09-11,11:02,Propostas,200,Manutenção,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN026,Empresa Delta,Tecnologia,RJ,Treinamentos,2026-09-15,12:10,Minha Área de Interesse,267,Manutenção,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN026,Empresa Delta,Tecnologia,RJ,Treinamentos,2026-09-06,12:34,Home,43,Manutenção,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN026,Empresa Delta,Tecnologia,RJ,Treinamentos,2026-09-14,18:49,Treinamentos,526,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN026,Empresa Delta,Tecnologia,RJ,Treinamentos,2026-09-12,10:36,Oportunidades,147,Equipamentos,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN026,Empresa Delta,Tecnologia,RJ,Treinamentos,2026-09-11,09:21,Treinamentos,59,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN026,Empresa Delta,Tecnologia,RJ,Treinamentos,2026-09-15,17:29,Propostas,433,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN027,Empresa Omega,Serviços,RJ,Treinamentos,2026-09-15,10:12,Oportunidades,453,Engenharia,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN027,Empresa Omega,Serviços,RJ,Treinamentos,2026-09-12,15:14,Treinamentos,589,Equipamentos,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN027,Empresa Omega,Serviços,RJ,Treinamentos,2026-09-14,16:24,Minha Área de Interesse,196,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN027,Empresa Omega,Serviços,RJ,Treinamentos,2026-09-14,13:25,Home,318,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN027,Empresa Omega,Serviços,RJ,Treinamentos,2026-09-14,13:17,Oportunidades,494,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN027,Empresa Omega,Serviços,RJ,Treinamentos,2026-09-15,12:03,Propostas,469,FPSO,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN027,Empresa Omega,Serviços,RJ,Treinamentos,2026-09-15,09:39,Oportunidades,155,Engenharia,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN028,Empresa Gamma,Logística,BA,Treinamentos,2026-09-08,18:03,Treinamentos,236,Engenharia,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN028,Empresa Gamma,Logística,BA,Treinamentos,2026-09-15,14:19,Treinamentos,47,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN028,Empresa Gamma,Logística,BA,Treinamentos,2026-09-12,14:29,Oportunidades,574,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN028,Empresa Gamma,Logística,BA,Treinamentos,2026-09-15,17:08,Propostas,29,Equipamentos,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN029,Empresa Delta,Serviços,MG,Licitações,2026-09-11,09:20,Home,168,Equipamentos,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN029,Empresa Delta,Serviços,MG,Licitações,2026-09-15,08:43,Treinamentos,218,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN029,Empresa Delta,Serviços,MG,Licitações,2026-09-15,18:27,Minha Área de Interesse,190,Equipamentos,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN029,Empresa Delta,Serviços,MG,Licitações,2026-09-14,16:11,Oportunidades,127,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN029,Empresa Delta,Serviços,MG,Licitações,2026-09-08,10:03,Home,45,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN029,Empresa Delta,Serviços,MG,Licitações,2026-09-14,09:35,Oportunidades,511,Engenharia,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN029,Empresa Delta,Serviços,MG,Licitações,2026-09-10,09:58,Treinamentos,194,Manutenção,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN029,Empresa Delta,Serviços,MG,Licitações,2026-09-08,09:44,Minha Área de Interesse,428,Nenhuma,Não,Sim,Não,Não,Inativo,Nenhum
+FORN030,Empresa Gamma,Construção,BA,Licitações,2026-09-15,08:36,Minha Área de Interesse,328,Equipamentos,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN030,Empresa Gamma,Construção,BA,Licitações,2026-09-06,09:39,Propostas,36,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN030,Empresa Gamma,Construção,BA,Licitações,2026-09-05,11:34,Home,247,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN030,Empresa Gamma,Construção,BA,Licitações,2026-09-05,14:18,Minha Área de Interesse,131,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN030,Empresa Gamma,Construção,BA,Licitações,2026-09-15,12:37,Minha Área de Interesse,412,Engenharia,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN031,Empresa Beta,Logística,RS,Oportunidades,2026-09-06,13:57,Oportunidades,297,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN031,Empresa Beta,Logística,RS,Oportunidades,2026-09-09,08:26,Minha Área de Interesse,450,Equipamentos,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN031,Empresa Beta,Logística,RS,Oportunidades,2026-09-09,14:34,Propostas,349,Manutenção,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN031,Empresa Beta,Logística,RS,Oportunidades,2026-09-14,18:01,Home,557,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN031,Empresa Beta,Logística,RS,Oportunidades,2026-09-13,18:58,Home,42,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN031,Empresa Beta,Logística,RS,Oportunidades,2026-09-14,14:35,Minha Área de Interesse,65,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN031,Empresa Beta,Logística,RS,Oportunidades,2026-09-14,14:06,Home,441,FPSO,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN031,Empresa Beta,Logística,RS,Oportunidades,2026-09-14,12:33,Oportunidades,26,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN032,Empresa Alpha,Logística,RS,Oportunidades,2026-09-15,08:26,Treinamentos,511,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN032,Empresa Alpha,Logística,RS,Oportunidades,2026-09-15,08:13,Home,256,Engenharia,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN032,Empresa Alpha,Logística,RS,Oportunidades,2026-09-12,15:40,Home,154,Manutenção,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN032,Empresa Alpha,Logística,RS,Oportunidades,2026-09-13,18:41,Minha Área de Interesse,403,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN032,Empresa Alpha,Logística,RS,Oportunidades,2026-09-14,12:29,Oportunidades,555,Engenharia,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN032,Empresa Alpha,Logística,RS,Oportunidades,2026-09-15,13:15,Propostas,451,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN033,Empresa Beta,Tecnologia,BA,Leilões,2026-09-15,11:33,Minha Área de Interesse,118,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN033,Empresa Beta,Tecnologia,BA,Leilões,2026-09-07,10:58,Treinamentos,422,Manutenção,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN033,Empresa Beta,Tecnologia,BA,Leilões,2026-09-14,09:37,Home,190,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN033,Empresa Beta,Tecnologia,BA,Leilões,2026-09-10,18:59,Home,71,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN033,Empresa Beta,Tecnologia,BA,Leilões,2026-09-12,14:40,Home,217,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN033,Empresa Beta,Tecnologia,BA,Leilões,2026-09-10,18:31,Minha Área de Interesse,491,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN033,Empresa Beta,Tecnologia,BA,Leilões,2026-09-11,14:27,Propostas,173,FPSO,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN033,Empresa Beta,Tecnologia,BA,Leilões,2026-09-05,17:07,Propostas,60,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN034,Empresa Delta,Engenharia,BA,Licitações,2026-08-25,13:39,Home,537,FPSO,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN035,Empresa Beta,Serviços,BA,Leilões,2026-09-12,11:55,Home,69,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN035,Empresa Beta,Serviços,BA,Leilões,2026-09-14,14:28,Minha Área de Interesse,495,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN035,Empresa Beta,Serviços,BA,Leilões,2026-09-14,09:47,Oportunidades,319,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN035,Empresa Beta,Serviços,BA,Leilões,2026-09-14,16:47,Treinamentos,460,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN035,Empresa Beta,Serviços,BA,Leilões,2026-09-14,13:48,Propostas,204,Equipamentos,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN036,Empresa Gamma,Engenharia,MG,Licitações,2026-09-15,08:41,Propostas,104,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN036,Empresa Gamma,Engenharia,MG,Licitações,2026-09-05,15:36,Propostas,515,Manutenção,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN036,Empresa Gamma,Engenharia,MG,Licitações,2026-09-15,11:00,Propostas,231,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN036,Empresa Gamma,Engenharia,MG,Licitações,2026-09-08,09:14,Propostas,71,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN036,Empresa Gamma,Engenharia,MG,Licitações,2026-09-13,11:45,Oportunidades,531,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN036,Empresa Gamma,Engenharia,MG,Licitações,2026-09-09,14:03,Treinamentos,446,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN037,Empresa Beta,Construção,RJ,Leilões,2026-08-19,18:31,Propostas,239,FPSO,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN037,Empresa Beta,Construção,RJ,Leilões,2026-09-12,08:59,Treinamentos,238,Manutenção,Não,Não,Não,Não,Inativo,Oportunidades
+FORN037,Empresa Beta,Construção,RJ,Leilões,2026-08-31,17:44,Home,284,FPSO,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN038,Empresa Alpha,Tecnologia,RS,Licitações,2026-09-14,10:28,Oportunidades,171,Equipamentos,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN038,Empresa Alpha,Tecnologia,RS,Licitações,2026-09-15,18:29,Treinamentos,159,Manutenção,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN038,Empresa Alpha,Tecnologia,RS,Licitações,2026-09-14,13:12,Minha Área de Interesse,488,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN038,Empresa Alpha,Tecnologia,RS,Licitações,2026-09-13,15:56,Home,218,Manutenção,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN038,Empresa Alpha,Tecnologia,RS,Licitações,2026-09-12,11:18,Oportunidades,423,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN038,Empresa Alpha,Tecnologia,RS,Licitações,2026-09-15,17:00,Minha Área de Interesse,377,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN039,Empresa Omega,Construção,SP,Leilões,2026-09-11,13:11,Treinamentos,350,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN039,Empresa Omega,Construção,SP,Leilões,2026-09-13,13:46,Minha Área de Interesse,237,Equipamentos,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN039,Empresa Omega,Construção,SP,Leilões,2026-09-08,11:45,Minha Área de Interesse,216,Engenharia,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN039,Empresa Omega,Construção,SP,Leilões,2026-09-14,11:58,Home,430,Manutenção,Não,Não,Não,Não,Inativo,Oportunidades
+FORN039,Empresa Omega,Construção,SP,Leilões,2026-09-10,13:07,Home,446,Manutenção,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN039,Empresa Omega,Construção,SP,Leilões,2026-09-09,10:52,Treinamentos,534,FPSO,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN039,Empresa Omega,Construção,SP,Leilões,2026-09-10,12:32,Treinamentos,558,FPSO,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN039,Empresa Omega,Construção,SP,Leilões,2026-09-09,11:01,Oportunidades,425,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN039,Empresa Omega,Construção,SP,Leilões,2026-09-11,15:01,Propostas,188,FPSO,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN040,Empresa Omega,Logística,BA,Cadastro Petrobras,2026-09-10,10:40,Oportunidades,583,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN040,Empresa Omega,Logística,BA,Cadastro Petrobras,2026-09-13,08:30,Oportunidades,222,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN040,Empresa Omega,Logística,BA,Cadastro Petrobras,2026-09-15,08:11,Minha Área de Interesse,540,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN040,Empresa Omega,Logística,BA,Cadastro Petrobras,2026-09-12,14:05,Treinamentos,356,Equipamentos,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN040,Empresa Omega,Logística,BA,Cadastro Petrobras,2026-09-11,09:30,Oportunidades,266,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN040,Empresa Omega,Logística,BA,Cadastro Petrobras,2026-09-13,14:51,Home,267,FPSO,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN040,Empresa Omega,Logística,BA,Cadastro Petrobras,2026-09-15,15:25,Oportunidades,281,Engenharia,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN041,Empresa Delta,Serviços,MG,Oportunidades,2026-09-09,18:05,Propostas,20,Engenharia,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN041,Empresa Delta,Serviços,MG,Oportunidades,2026-09-09,17:28,Minha Área de Interesse,348,Engenharia,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN041,Empresa Delta,Serviços,MG,Oportunidades,2026-09-09,12:59,Minha Área de Interesse,88,Engenharia,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN041,Empresa Delta,Serviços,MG,Oportunidades,2026-09-13,17:32,Minha Área de Interesse,470,Manutenção,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN041,Empresa Delta,Serviços,MG,Oportunidades,2026-09-10,14:06,Home,103,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN041,Empresa Delta,Serviços,MG,Oportunidades,2026-09-06,12:32,Oportunidades,296,Engenharia,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN041,Empresa Delta,Serviços,MG,Oportunidades,2026-09-08,17:21,Minha Área de Interesse,106,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN041,Empresa Delta,Serviços,MG,Oportunidades,2026-09-15,16:37,Treinamentos,295,Nenhuma,Não,Sim,Não,Sim,Engajado,Nenhum
+FORN042,Empresa Delta,Logística,MG,Licitações,2026-09-11,17:22,Propostas,341,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN042,Empresa Delta,Logística,MG,Licitações,2026-09-14,12:35,Treinamentos,84,Manutenção,Não,Não,Não,Não,Inativo,Oportunidades
+FORN042,Empresa Delta,Logística,MG,Licitações,2026-09-08,12:19,Treinamentos,388,Equipamentos,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN042,Empresa Delta,Logística,MG,Licitações,2026-09-15,15:41,Treinamentos,76,Equipamentos,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN042,Empresa Delta,Logística,MG,Licitações,2026-09-12,11:52,Home,564,Manutenção,Não,Não,Não,Não,Inativo,Oportunidades
+FORN042,Empresa Delta,Logística,MG,Licitações,2026-09-12,11:23,Home,563,Nenhuma,Sim,Sim,Não,Não,Inativo,Nenhum
+FORN042,Empresa Delta,Logística,MG,Licitações,2026-09-10,13:13,Minha Área de Interesse,380,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN042,Empresa Delta,Logística,MG,Licitações,2026-09-12,13:23,Home,118,Manutenção,Não,Não,Não,Não,Inativo,Oportunidades
+FORN042,Empresa Delta,Logística,MG,Licitações,2026-09-09,10:03,Treinamentos,276,Manutenção,Não,Não,Não,Não,Inativo,Oportunidades
+FORN043,Empresa Gamma,Serviços,BA,Cadastro Petrobras,2026-09-12,15:07,Oportunidades,216,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN043,Empresa Gamma,Serviços,BA,Cadastro Petrobras,2026-09-14,11:25,Treinamentos,40,Equipamentos,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN043,Empresa Gamma,Serviços,BA,Cadastro Petrobras,2026-09-12,13:19,Treinamentos,96,Nenhuma,Sim,Sim,Não,Não,Inativo,Nenhum
+FORN043,Empresa Gamma,Serviços,BA,Cadastro Petrobras,2026-09-15,14:48,Minha Área de Interesse,301,FPSO,Sim,Sim,Não,Não,Inativo,Oportunidades
+FORN044,Empresa Alpha,Logística,MG,Oportunidades,2026-09-15,18:09,Oportunidades,378,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN044,Empresa Alpha,Logística,MG,Oportunidades,2026-09-12,11:52,Home,383,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN044,Empresa Alpha,Logística,MG,Oportunidades,2026-09-12,10:50,Minha Área de Interesse,388,Nenhuma,Não,Sim,Sim,Não,Em risco,Nenhum
+FORN044,Empresa Alpha,Logística,MG,Oportunidades,2026-09-12,13:17,Minha Área de Interesse,23,Equipamentos,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN044,Empresa Alpha,Logística,MG,Oportunidades,2026-09-13,10:09,Propostas,83,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN045,Empresa Omega,Logística,BA,Leilões,2026-09-15,12:09,Oportunidades,577,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN045,Empresa Omega,Logística,BA,Leilões,2026-09-14,12:40,Propostas,106,FPSO,Não,Não,Não,Não,Inativo,Oportunidades
+FORN045,Empresa Omega,Logística,BA,Leilões,2026-09-12,10:42,Minha Área de Interesse,443,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN045,Empresa Omega,Logística,BA,Leilões,2026-09-13,14:46,Home,416,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN045,Empresa Omega,Logística,BA,Leilões,2026-09-14,17:54,Treinamentos,520,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN045,Empresa Omega,Logística,BA,Leilões,2026-09-13,12:34,Treinamentos,253,Manutenção,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN045,Empresa Omega,Logística,BA,Leilões,2026-09-15,10:09,Oportunidades,256,Nenhuma,Sim,Sim,Não,Não,Inativo,Nenhum
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-09,18:23,Minha Área de Interesse,34,Nenhuma,Não,Sim,Sim,Não,Em risco,Nenhum
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-12,15:07,Oportunidades,227,Engenharia,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-12,17:09,Home,483,Manutenção,Não,Não,Não,Não,Inativo,Oportunidades
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-09,14:48,Minha Área de Interesse,476,Nenhuma,Não,Sim,Sim,Não,Em risco,Nenhum
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-15,16:46,Propostas,459,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-09,14:41,Treinamentos,313,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-08,17:52,Minha Área de Interesse,412,FPSO,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-13,13:37,Treinamentos,354,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-12,15:19,Home,375,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-14,10:04,Minha Área de Interesse,471,Equipamentos,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-08,08:07,Oportunidades,56,Equipamentos,Sim,Sim,Sim,Não,Em risco,Oportunidades
+FORN046,Empresa Beta,Tecnologia,MG,Licitações,2026-09-10,13:14,Propostas,101,Engenharia,Não,Sim,Sim,Não,Em risco,Oportunidades
+FORN047,Empresa Omega,Engenharia,RJ,Licitações,2026-08-28,11:04,Home,327,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN048,Empresa Beta,Logística,RS,Cadastro Petrobras,2026-09-07,09:14,Home,235,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN048,Empresa Beta,Logística,RS,Cadastro Petrobras,2026-09-14,08:19,Home,90,Manutenção,Sim,Sim,Não,Sim,Engajado,Oportunidades
+FORN048,Empresa Beta,Logística,RS,Cadastro Petrobras,2026-09-12,11:54,Propostas,332,Equipamentos,Não,Não,Não,Não,Inativo,Oportunidades
+FORN048,Empresa Beta,Logística,RS,Cadastro Petrobras,2026-09-06,18:16,Treinamentos,309,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN048,Empresa Beta,Logística,RS,Cadastro Petrobras,2026-09-14,14:57,Home,490,FPSO,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN049,Empresa Delta,Engenharia,MG,Leilões,2026-09-09,12:02,Treinamentos,370,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,2026-09-15,16:24,Minha Área de Interesse,207,Engenharia,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,2026-09-12,14:53,Oportunidades,287,FPSO,Não,Sim,Não,Sim,Engajado,Oportunidades
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,2026-09-10,18:37,Minha Área de Interesse,489,Nenhuma,Não,Não,Não,Não,Inativo,Nenhum
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,2026-09-09,10:13,Minha Área de Interesse,318,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,2026-09-12,10:01,Minha Área de Interesse,369,Nenhuma,Sim,Não,Não,Não,Inativo,Nenhum
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,2026-09-11,11:39,Treinamentos,301,Manutenção,Sim,Não,Não,Não,Inativo,Oportunidades
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,2026-09-09,14:52,Oportunidades,204,Engenharia,Não,Não,Não,Não,Inativo,Oportunidades
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,2026-09-09,10:46,Oportunidades,572,Manutenção,Não,Sim,Não,Não,Inativo,Oportunidades
+FORN050,Empresa Beta,Serviços,RJ,Oportunidades,2026-09-10,10:07,Minha Área de Interesse,408,Engenharia,Não,Sim,Não,Sim,Engajado,Oportunidades
